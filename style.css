@@ -1,0 +1,38 @@
+body {
+    background-color: #442252;
+}
+header {
+    color: white;
+    text-align: center;
+    font-family: "Century Gothic";
+    text-shadow: 2px 3px 1px #00000098;
+}
+section {
+    margin: auto;
+    border-radius: 3px;
+    background-color: white;
+    width: 350px;
+    height: 200px;
+    padding: 5px;
+    /*padding-top: 25px;*/
+    position: relative;
+    box-shadow: 2px 4px 5px #00000098;
+}
+.horario {
+    text-align: center;
+    margin-bottom: 10px;
+}
+img[alt="mood"] {
+    margin-left: 100px;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+footer {
+    text-align: center;
+    margin: 10px;
+    font-size: 13px;
+    color: white;
+    font-style: italic;
+    text-shadow: 1px 0.5px 0.5px #00000098;
+}
